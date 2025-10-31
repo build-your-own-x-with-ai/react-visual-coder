@@ -1,0 +1,5 @@
+{
+  "name": "React Visual Coder",
+  "description": "A Scratch-like visual programming application built with React and Tailwind CSS. Users can drag and drop code blocks, including nested loops and pen controls, to create animations, art, and stories for a sprite on a stage.",
+  "requestFramePermissions": []
+}
