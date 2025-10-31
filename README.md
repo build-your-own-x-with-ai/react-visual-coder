@@ -1,9 +1,16 @@
 
 # React Scratch Logo Visual Coder
+---
 
 A Scratch-like visual programming application built with React, TypeScript, and Tailwind CSS. This project provides an interactive, block-based coding environment where users can create scripts to control a sprite on a stage, draw complex patterns, and build simple animations.
 
 ![React Visual Coder Screenshot](screenshots/ReactVisualCoder.png)
+
+## Demo
+
+[Demo](shttps://react-visual-coder-mujqn930l-jiaxianhuas-projects.vercel.app)
+
+![QR_Code](screenshots/QR_Code.png)
 
 ## ✨ Core Features
 

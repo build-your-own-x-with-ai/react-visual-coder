@@ -5,6 +5,12 @@
 
 ![React 可视化编程截图](screenshots/ReactVisualCoder.png)
 
+## 演示
+
+[Demo](shttps://react-visual-coder-mujqn930l-jiaxianhuas-projects.vercel.app)
+
+![QR_Code](screenshots/QR_Code.png)
+
 ## ✨核心功能
 
 *   **积木面板**: 一个功能丰富的积木库，按功能分类（运动、外观、控制、画笔、变量）。
